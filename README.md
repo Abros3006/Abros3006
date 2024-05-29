@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abros3006
 - 👀 I’m interested in programming and machine learning
-- 🌱 I’m currently learning Django web devlopment and deep learning in semantic web
+- 🌱 I’m currently learning Django web devlopment
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me atharvabangle@gmail.com
 
